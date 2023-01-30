@@ -9,14 +9,4 @@ A.	Find a Gale-Shapley implementation in python on Github and modify it so that 
 B.	Use a loop to shuffle the preference lists for each team 1000 times.  Calculate the percentage of stable playoff matches.  See the function random.shuffle(x[, random])  
  
  
- 
-C.	Randomly assume certain teams win and lose each round and eliminate the losers from the preference lists for each team. Can the Gale-Shapley matching algorithm be applied over and over in each round (16 teams, 8 teams, 4 teams, 2 teams) to create stable matches? You can answer this with code or rhetoric. 
- 
- 
- 
-D.	Now combine the lists so that any team can be matched against any other irrespective of conference.  Can the Gale-Shapley matching algorithm still create stable matches? (With just one list matching against itself?) You can answer this with code or rhetoric. 
- 
- 
- 
- 
-E.	Double the size of the lists in problem A several times (you can make up team names like team1, team2, etc.) and measure the amount of time it takes to create stable matches.  How fast does the execution time grow in relation to the size of the lists? 
+C.	Double the size of the lists in problem A several times (you can make up team names like team1, team2, etc.) and measure the amount of time it takes to create stable matches.  How fast does the execution time grow in relation to the size of the lists? 
