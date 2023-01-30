@@ -6,7 +6,7 @@ A.	Find a Gale-Shapley implementation in python on Github and modify it so that 
  
  
  
-B.	Use a loop to shuffle the preference lists for each team 1000 times.  Calculate the percentage of stable playoff matches.  See the function random.shuffle(x[, random])   https://docs.python.org/2/library/random.html 
+B.	Use a loop to shuffle the preference lists for each team 1000 times.  Calculate the percentage of stable playoff matches.  See the function random.shuffle(x[, random])  
  
  
  
